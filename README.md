@@ -1,6 +1,6 @@
 #  Heyy!, I'm Srinivasan R S
 
-### Software Developer | Full-Stack Development | AI
+### Software Developer | Full-Stack Development 
 
 Information Technology student interested in building practical
 software solutions using Java, Python, React, SQL, and AI technologies.
