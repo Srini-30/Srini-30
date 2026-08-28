@@ -1,38 +1,36 @@
-# Hi 👋, I'm Srinivasan R S
+# 👋 Hi, I'm Srinivasan R S
 
-### Information Technology Student | Software Developer 
+### Software Developer | Full-Stack Development | AI
 
-I'm an Information Technology student interested in building
-software applications, AI-powered systems, and modern web applications.
+Information Technology student interested in building practical
+software solutions using Java, Python, React, SQL, and AI technologies.
 
-## 🚀 Skills
+## 🛠️ Tech Stack
 
-- Java
-- Python
-- SQL
-- JavaScript
-- React.js
-- HTML & CSS
-- Git & GitHub
-- REST APIs
-- AI/ML
-- RAG / Generative AI
+**Languages:** Java • Python • JavaScript • SQL  
+**Frontend:** React • HTML • CSS  
+**Backend:** Spring Boot • Flask • Django • REST APIs  
+**Database:** MySQL  
+**Core:** DSA • OOP  
+**Tools:** Git • GitHub • VS Code • Postman  
+**AI:** Generative AI
 
-## 💻 Projects
+## 🚀 Projects
 
-- 🔹 RAG Document Q&A System
-- 🔹 AI Learning Platform
-- 🔹 Cross-Modal Image Captioning
-- 🔹 Data Structures & Algorithms in Java
+- ✈️ **Travel Mate** — Full-stack travel platform using React, Python, REST APIs & MySQL.
+- 🤖 **AI Learning Content Generation** — Personalized learning content generation using AI.
+- 🏠 **Accommodation Finder** — Recommendation-based accommodation finder for students.
+- 📚 **Library Management System** — Library management application using Flask & JavaScript.
+- 🧺 **Laundry Management System** — Web-based laundry management application using Flask.
 
-## 🎯 Currently Learning
-
-- Data Structures & Algorithms
-- RAG
-- Backend Development
 
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/srinivasan-r-s-
-- LeetCode: https://leetcode.com/u/srinivasan_30/
+📧 srinivasan30032@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/srinivasan)  
+💻 [GitHub](https://github.com/Srini-30)
+
+---
+
+### 🚀 Build • Learn • Solve • Improve
