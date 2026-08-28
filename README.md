@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Srinivasan R S
+#  Heyy!, I'm Srinivasan R S
 
 ### Software Developer | Full-Stack Development | AI
 
