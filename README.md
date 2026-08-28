@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Srinivasan R S
 
-<!--
-**Srini-30/Srini-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Technology Student | Software Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I'm an Information Technology student interested in building
+software applications, AI-powered systems, and modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Java
+- Python
+- SQL
+- JavaScript
+- React.js
+- HTML & CSS
+- Git & GitHub
+- REST APIs
+- AI/ML
+- RAG / Generative AI
+
+## 💻 Projects
+
+- 🔹 RAG Document Q&A System
+- 🔹 AI Learning Platform
+- 🔹 Cross-Modal Image Captioning
+- 🔹 Data Structures & Algorithms in Java
+
+## 🎯 Currently Learning
+
+- Data Structures & Algorithms
+- RAG
+- Backend Development
+
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/srinivasan-r-s-
+- LeetCode: https://leetcode.com/u/srinivasan_30/
