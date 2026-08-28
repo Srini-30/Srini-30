@@ -1,6 +1,6 @@
 # Hi 👋, I'm Srinivasan R S
 
-### Information Technology Student | Software Developer | AI/ML Enthusiast
+### Information Technology Student | Software Developer 
 
 I'm an Information Technology student interested in building
 software applications, AI-powered systems, and modern web applications.
