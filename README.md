@@ -1,19 +1,17 @@
 <!-- ======================= PROFILE HEADER ======================= -->
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Srinivasan%20R%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=60&descSize=22"
+    width="100%"
+  />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Srinivasan%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=60&descSize=22&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-### 🚀 Building intelligent applications with AI and modern web technologies
-
-</div>
+<h3 align="center">
+  🚀 Building intelligent applications with AI and modern web technologies
+</h3>
 
 <br/>
-
 <!-- ======================= TECH STACK ======================= -->
 
 # 💻 Tech Stack
