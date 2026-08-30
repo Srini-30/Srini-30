@@ -1,36 +1,64 @@
-#  Heyy!, I'm Srinivasan R S
+👋 Srinivasan R S
+Software Developer | AI & RAG Enthusiast
 
-### Software Developer | Full-Stack Development 
+🚀 Building intelligent applications with AI and modern web technologies
 
-Information Technology student interested in building practical
-software solutions using Java, Python, React, SQL, and AI technologies.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🛠️ Tech Stack
+💻 Tech Stack
 
-**Languages:** Java • Python • JavaScript • SQL  
-**Frontend:** React • HTML • CSS  
-**Backend:** Spring Boot • Flask • Django • REST APIs  
-**Database:** MySQL  
-**Core:** DSA • OOP  
-**Tools:** Git • GitHub • VS Code • Postman  
-**AI:** Generative AI
+💡 Languages
+[ Java ] [ Python ] [ JavaScript ] [ SQL ]
 
-## 🚀 Projects
+🎨 Frontend
+[ React ] [ HTML5 ] [ CSS3 ] [ Tailwind CSS ]
 
-- ✈️ **Travel Mate** — Full-stack travel platform using React, Python, REST APIs & MySQL.
-- 🤖 **AI Learning Content Generation** — Personalized learning content generation using AI.
-- 🏠 **Accommodation Finder** — Recommendation-based accommodation finder for students.
-- 📚 **Library Management System** — Library management application using Flask & JavaScript.
-- 🧺 **Laundry Management System** — Web-based laundry management application using Flask.
+⚙️ Backend
+[ FastAPI ] [ Spring Boot ] [ REST APIs ]
 
+🤖 AI & RAG
+[ Generative AI ] [ RAG ] [ LangChain ]
+[ Embeddings ] [ Vector Search ]
 
+🗄️ Databases
+[ MySQL ] [ Qdrant ]
 
-## 📫 Connect With Me
+🛠️ Tools & DevOps
+[ Git ] [ GitHub ] [ Postman ]
+[ Docker ] [ VS Code ]
 
-📧 srinivasan30032@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/srinivasan)  
-💻 [GitHub](https://github.com/Srini-30)
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+🔥 Currently Building
 
-### 🚀 Build • Learn • Solve • Improve
+🏢 AI Due Diligence Copilot
+
+An AI-powered platform combining RAG and live market data
+to analyze company documents and generate source-backed:
+
+• Financial Insights
+• Risk Assessments
+• Growth Opportunities
+• Cross-document Analysis
+• Executive Summaries
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📈 Coding Journey
+
+• DSA & Problem Solving
+• Building Full-Stack Applications
+• Exploring Generative AI & RAG
+• Learning System Design
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Activity
+
+[ Contribution Graph ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 Connect
+
+LinkedIn | LeetCode | Email
