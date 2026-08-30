@@ -1,64 +1,136 @@
-👋 Srinivasan R S
-Software Developer | AI & RAG Enthusiast
+<!-- ======================= HEADER ======================= -->
 
-🚀 Building intelligent applications with AI and modern web technologies
+<h1 align="center">Hi 👋, I'm Srinivasan R S</h1>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+<h3 align="center">
+  Software Developer | AI & RAG Enthusiast
+</h3>
 
-💻 Tech Stack
+<p align="center">
+  🚀 Building intelligent applications with AI and modern web technologies
+</p>
 
-💡 Languages
-[ Java ] [ Python ] [ JavaScript ] [ SQL ]
+<br/>
 
-🎨 Frontend
-[ React ] [ HTML5 ] [ CSS3 ] [ Tailwind CSS ]
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srini-30&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+</p>
 
-⚙️ Backend
-[ FastAPI ] [ Spring Boot ] [ REST APIs ]
+---
 
-🤖 AI & RAG
-[ Generative AI ] [ RAG ] [ LangChain ]
-[ Embeddings ] [ Vector Search ]
+# 💻 Tech Stack
 
-🗄️ Databases
-[ MySQL ] [ Qdrant ]
+### 💡 Languages
 
-🛠️ Tools & DevOps
-[ Git ] [ GitHub ] [ Postman ]
-[ Docker ] [ VS Code ]
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🎨 Frontend
 
-🔥 Currently Building
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-🏢 AI Due Diligence Copilot
+### ⚙️ Backend
 
-An AI-powered platform combining RAG and live market data
-to analyze company documents and generate source-backed:
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-• Financial Insights
-• Risk Assessments
-• Growth Opportunities
-• Cross-document Analysis
-• Executive Summaries
+### 🤖 AI & RAG
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embeddings-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Search-00897B?style=for-the-badge"/>
+</p>
 
-📈 Coding Journey
+### 🗄️ Databases
 
-• DSA & Problem Solving
-• Building Full-Stack Applications
-• Exploring Generative AI & RAG
-• Learning System Design
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🛠️ Tools & Software
 
-📊 GitHub Activity
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-[ Contribution Graph ]
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🔥 Currently Building
 
-🌐 Connect
+### 🏢 AI Due Diligence Copilot
 
-LinkedIn | LeetCode | Email
+> An AI-powered platform combining **RAG and live market data** to analyze company documents and generate source-backed insights.
+
+**Key capabilities:**
+
+- 📊 Financial Insights
+- ⚠️ Risk Assessment
+- 🚀 Growth Opportunities
+- 🔍 Cross-document Analysis
+- 📝 Executive Summaries
+
+---
+
+# 📈 Coding Journey
+
+- 💻 DSA & Problem Solving
+- 🌐 Building Full-Stack Applications
+- 🤖 Exploring Generative AI & RAG
+- 🏗️ Learning System Design
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srini-30&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srini-30&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="www.linkedin.com/in/srinivasan-r-s-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/srinivasan_30/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>"Learning, building, and turning ideas into working software."</i>
+</p>
