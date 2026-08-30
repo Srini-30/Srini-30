@@ -1,22 +1,20 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= PROFILE HEADER ======================= -->
 
-<h1 align="center">Hi 👋, I'm Srinivasan R S</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Developer | AI & RAG Enthusiast
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Srinivasan%20R%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=60&descSize=22&animation=fadeIn"/>
 
-<p align="center">
-  🚀 Building intelligent applications with AI and modern web technologies
-</p>
+</div>
+
+<div align="center">
+
+### 🚀 Building intelligent applications with AI and modern web technologies
+
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srini-30&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-</p>
-
----
+<!-- ======================= TECH STACK ======================= -->
 
 # 💻 Tech Stack
 
@@ -35,7 +33,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
@@ -43,7 +41,7 @@
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 </p>
 
 ### 🤖 AI & RAG
@@ -76,13 +74,15 @@
 
 ---
 
+<!-- ======================= CURRENTLY BUILDING ======================= -->
+
 # 🔥 Currently Building
 
 ### 🏢 AI Due Diligence Copilot
 
 > An AI-powered platform combining **RAG and live market data** to analyze company documents and generate source-backed insights.
 
-**Key capabilities:**
+**Key Capabilities:**
 
 - 📊 Financial Insights
 - ⚠️ Risk Assessment
@@ -91,6 +91,8 @@
 - 📝 Executive Summaries
 
 ---
+
+<!-- ======================= CODING JOURNEY ======================= -->
 
 # 📈 Coding Journey
 
@@ -101,36 +103,50 @@
 
 ---
 
+<!-- ======================= GITHUB STATS ======================= -->
+
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srini-30&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Srini-30&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srini-30&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Srini-30&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ======================= CONNECT ======================= -->
+
+# 🌐 Connect With Me
 
 <p>
-  <a href="www.linkedin.com/in/srinivasan-r-s-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://leetcode.com/u/srinivasan_30/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+<a href="www.linkedin.com/in/srinivasan-r-s-">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/u/srinivasan_30/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:srinivasan30032@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  ⭐ <i>"Learning, building, and turning ideas into working software."</i>
-</p>
+<div align="center">
+
+### ⭐ Learning • Building • Turning Ideas into Working Software
+
+</div>
